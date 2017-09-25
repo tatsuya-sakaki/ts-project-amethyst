@@ -1,0 +1,20 @@
+body{overflow:scroll;}
+#top{
+  overflow:hidden;
+  margin:0px;
+  padding: 0px;
+}
+#cont-image{
+  float: left;
+  width: 250px; height: 250px;
+  margin: 0px;
+  padding: 0px;
+}
+#cont-description{
+  float: left;
+  top: 0px;
+  width: 650px; height: 250px;
+  margin: 0px;
+  padding: 0px;
+}
+.clear{clear:both; padding: 0px; margin: 0px;}
